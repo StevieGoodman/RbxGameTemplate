@@ -1,6 +1,5 @@
 {
     "name": "Unnamed project",
-
     "emitLegacyScripts": false,
 
     "tree": {
@@ -10,7 +9,7 @@
         "ReplicatedStorage": {
             "$ignoreUnknownInstances": true,
             "$className": "ReplicatedStorage",
-            "$path": "src/ReplicatedStorage",
+            "$path": "src/Client",
 
             "Packages": {
                 "$path": "Packages"
@@ -19,7 +18,7 @@
 
         "ServerScriptService": {
             "$className": "ServerScriptService",
-            "$path": "src/ServerScriptService"
+            "$path": "src/Server"
         }
     }
 }
